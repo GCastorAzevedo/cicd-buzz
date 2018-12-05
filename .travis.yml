@@ -1,8 +1,14 @@
+branches:
+  only:
+    - master
+  #except:
+  #  - development
 language: python
 python:
   - "3.6"
 install:
-  - pip install nose pylint
+  - pip install -r requirements.txt
+# - pip install nose pylint
 script:
-  - nosetests && pylint
+# - nosetests && pylint
   - python -m pytest -v tests/test_generator.py

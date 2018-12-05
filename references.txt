@@ -1,2 +1,11 @@
 --> CI/CD automations: https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b ;
 
+--> Travis tuto: http://sebastiandahlgren.se/2012/11/18/continuous-integration-with-travis-ci/ ;
+
+--> Travis CI/CD python linter config example: https://github.com/PyCQA/pylint/blob/master/.travis.yml ;
+
+--> CI with python, linter, tests: https://github.com/ksator/continuous-integration-with-python ;
+
+--> PyLint: https://docs.pylint.org/en/1.6.0/tutorial.html ;
+
+--> Travis CI Python: https://docs.travis-ci.com/user/languages/python/ ;
