@@ -9,3 +9,9 @@
 --> PyLint: https://docs.pylint.org/en/1.6.0/tutorial.html ;
 
 --> Travis CI Python: https://docs.travis-ci.com/user/languages/python/ ;
+
+--> Python decorators: https://realpython.com/primer-on-python-decorators/ ;
+
+--> Checkout Flask tutorial: https://github.com/pallets/flask/tree/master/examples/tutorial ;
+
+--> Joe on software: where this small research begun!
