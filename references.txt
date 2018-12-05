@@ -15,3 +15,5 @@
 --> Checkout Flask tutorial: https://github.com/pallets/flask/tree/master/examples/tutorial ;
 
 --> Joe on software: where this small research begun!
+
+--> Docker alpine python3: https://github.com/frol/docker-alpine-python3/blob/master/Dockerfile ;
