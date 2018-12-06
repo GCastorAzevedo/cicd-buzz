@@ -3,12 +3,22 @@ branches:
     - master
   #except:
   #  - development
+
 language: python
+
 python:
+  - "3.4"
+  - "3.5"
   - "3.6"
+
 install:
   - pip install -r requirements.txt
-# - pip install nose pylint
+
 script:
-# - nosetests && pylint
+  - pylint --output-format=text app.py
   - python -m pytest -v tests/test_generator.py
+
+notifications:
+  email:
+    on_success: never
+    on_failure: never

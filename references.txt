@@ -14,6 +14,11 @@
 
 --> Checkout Flask tutorial: https://github.com/pallets/flask/tree/master/examples/tutorial ;
 
+--> Flask deployment: https://mdyzma.github.io/2017/05/20/flask-and-travis-ci/ ;
+
 --> Joe on software: where this small research begun!
 
 --> Docker alpine python3: https://github.com/frol/docker-alpine-python3/blob/master/Dockerfile ;
+
+--> Miscelaneous: https://medium.com/devopslinks/how-we-switch-to-a-continuous-delivery-pipeline-in-3-months-9667b9f65f7a;
+                    
